@@ -7,6 +7,8 @@ date: 2021-06-27
 
 ![Bike](https://github.com/idlerun/bike-brightness/raw/master/bike.gif)
 
+![Done](https://github.com/idlerun/bike-brightness/raw/master/done.jpg)
+
 ## Bike
 
 I found a free standing bike on the side of the road. The handles are removable with a couple bolts, so I took those off.
